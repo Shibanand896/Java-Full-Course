@@ -1,4 +1,4 @@
-package com.Corejava;
+package com.Corejava.Operators;
 
 import java.util.Scanner;
 
